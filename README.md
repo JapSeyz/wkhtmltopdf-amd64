@@ -36,7 +36,7 @@ Also a symlink will be created in your configured bin/ folder, for example:
 
 ### Usage
 
-You can use the path constant to easily locate the binary in the PHP codebase: 
+You can use the path constant to easily locate the binary in the PHP codebase:
 
 ``` php
 $path = \h4cc\WKHTMLToPDF\WKHTMLToPDF::PATH;
